@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "6762fd238f44448aecc73bfe"
+  },
+  "Judul": "LaskarPelangi",
+  "Nama_Pengarang": "Andrea Hirata",
+  "Tahun_Terbit": "2007",
+  "Tempat_Terbit": "Jakarta"
+},
+{
+  "_id": {
+    "$oid": "6762fd238f44448aecc73bff"
+  },
+  "Judul": "Central Park",
+  "Nama_Pengarang": "Guillaume Musso",
+  "Tahun_Terbit": "2019",
+  "Tempat_Terbit": "Paris"
+},
+{
+  "_id": {
+    "$oid": "6762fd238f44448aecc73c00"
+  },
+  "Judul": "Salt To The Sea",
+  "Nama_Pengarang": "Sepetys Ruta",
+  "Tahun_Terbit": "2023",
+  "Tempat_Terbit": "Jakarta"
+},
+{
+  "_id": {
+    "$oid": "6762fd238f44448aecc73c01"
+  },
+  "Judul": "Burning Heat",
+  "Nama_Pengarang": "Akiyoshi Rikako",
+  "Tahun_Terbit": "2023",
+  "Tempat_Terbit": "Jakarta"
+},
+{
+  "_id": {
+    "$oid": "6762fd238f44448aecc73c02"
+  },
+  "Judul": "A Little Life",
+  "Nama_Pengarang": "Hanya Yanagihara",
+  "Tahun_Terbit": "2015",
+  "Tempat_Terbit": "USA"
+},
+{
+  "_id": {
+    "$oid": "6762fd238f44448aecc73c03"
+  },
+  "Judul": "Cinderella Addiction",
+  "Nama_Pengarang": "Akiyoshi Rikako",
+  "Tahun_Terbit": "2023",
+  "Tempat_Terbit": "Jakarta"
+},
+{
+  "_id": {
+    "$oid": "6762fd238f44448aecc73c04"
+  },
+  "Judul": "The Chalk Man",
+  "Nama_Pengarang": "CJ Tudor",
+  "Tahun_Terbit": "2019",
+  "Tempat_Terbit": "USA"
+},
+{
+  "_id": {
+    "$oid": "6762fd238f44448aecc73c05"
+  },
+  "Judul": "Youve Reached Sam",
+  "Nama_Pengarang": "Dustin Thao",
+  "Tahun_Terbit": "2015",
+  "Tempat_Terbit": "USA"
+},
+{
+  "_id": {
+    "$oid": "6762fd238f44448aecc73c06"
+  },
+  "Judul": "Love For Imperfect Things",
+  "Nama_Pengarang": "Haemin Sunim",
+  "Tahun_Terbit": "2018",
+  "Tempat_Terbit": "Korea Selatan"
+},
+{
+  "_id": {
+    "$oid": "6762fd238f44448aecc73c07"
+  },
+  "Judul": "Girls in The Dark",
+  "Nama_Pengarang": "Akiyoshi Rikako",
+  "Tahun_Terbit": "2014",
+  "Tempat_Terbit": "Jakarta"
+}]
